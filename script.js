@@ -17,7 +17,7 @@ for (var index = 0; index < numberOfStudents; index++) {
 }
 
 // add a while loop tp iterate over students
-var i = o;
+var i = 0;
 while (i < numberOfStudents) {
   // get value from students using i
   var student = students[i];
